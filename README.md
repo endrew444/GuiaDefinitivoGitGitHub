@@ -19,3 +19,17 @@
 -5º Passo - Adicionar meus arquivos ao Repositorio local
    -git add +nome_do_arquivo
    -git add . (adicionar todos os arquivos de uma única vez)
+
+-6º Passo - Criar o Versionamento Local
+  -git commit -m "Sua Mensagem"
+
+-7º Passo - Sincronizar o Repositório Local com o GitHub
+  -git push -u origin main
+
+-8º Passo - Clonar um Repositório da Nuvem
+ - git clone +Link_do_repositorio_github
+
+- 9º Passo - Atualizar um Repositorio Local
+ -git pull origin main
+
+## Criando um repositório colaborativo
